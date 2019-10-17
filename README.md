@@ -30,3 +30,6 @@ cd ~/CodeLibrary/algorithm004-03
 
 
 
+## 最终效果
+
+git仅追踪您自己学号文件夹内的变更
